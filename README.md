@@ -1,5 +1,4 @@
 # den258258-README.md
-My personal repository.
 
 <br clear="both">
 
