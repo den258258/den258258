@@ -5,15 +5,6 @@
 </div>
 <h1 align="center">Hello👋</h1>
 
-<div align="center">
-  <img height="300" width="600"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R0bmpnNjluM3h1bTA0enBmaG1iZjVyZ2tjbGoxZWl5ZnVuZTZvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"/>
-</div>
-
-
-
-
-
-
 
 <div align="center">
   <a href="https://t.me/denhis_777" target="_blank">
